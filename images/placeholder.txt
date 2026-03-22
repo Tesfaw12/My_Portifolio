@@ -1,0 +1,10 @@
+Place your profile picture here as "profile.jpg"
+
+Recommended specifications:
+- Format: JPG or PNG
+- Size: 500x500 pixels (square)
+- File size: Under 500KB for optimal loading
+- High quality, professional photo
+
+You can replace this placeholder by adding your actual photo as:
+images/profile.jpg
